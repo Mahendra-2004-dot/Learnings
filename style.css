@@ -1,13 +1,63 @@
-h1{
-    color:black;
-}
-.container{
-    color: aqua;
+h2{
+    color: white;
     background-color: black;
 }
-.msg{
-color: bisque;}
+body{
+    font-family: monospace;
+}
+.name{
+    color:rgb(250, 247, 247);
+}
+.name{
+    color:rgb(250, 247, 247);
+    padding: 20px;
+}
+.box{
+text-align: center;
+background-color: black;
+
+}
+.phone{
+    color: white;
+    padding: 10px;
+    padding-right: 5px;
+}
+.mail{
+    color: white;
+        padding: 10px;
+padding-right: 10px
+}
+.adress{
+    color: white;
+        padding: 10px;
+
+}
+.box{
+    background-color: black;
+    text-align: center;
+}
+.phone{
+    color: white;
+    padding: 10px;
+}
+.mail{
+    color: white;
+        padding: 10px;
+
+
+}
+.adress{
+    color: white;
+        padding: 10px;
+
+}
 button{
-    color:black;
-    
+    color: white;
+    background-color: blue;
+padding: 10px 20px;
+margin: 10px
+}
+
+label {
+    text-align: center
 }
